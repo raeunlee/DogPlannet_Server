@@ -1,0 +1,25 @@
+{
+  "name": "dogplannetserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanghw7730/DogPlannet_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanghw7730/DogPlannet_server/issues"
+  },
+  "homepage": "https://github.com/kanghw7730/DogPlannet_server#readme",
+  "dependencies": {
+    "mongodb": "^4.13.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.5"
+  }
+}
